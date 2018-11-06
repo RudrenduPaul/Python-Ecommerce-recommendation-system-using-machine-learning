@@ -7,8 +7,8 @@ A well developed recommendation system will help businesses improve their shoppe
 The recommendation system, I have designed below is based on the journey of a new customer from the time he/she lands on the business’s website for the first time to when he/she makes repeat purchases. 
 
 The data sets are real data sets are 
-1. Amazon product ratings by multipe users and  
-2. Home Depot products with descriptions
+1. Amazon product ratings by multipe users, Data Source: https://www.kaggle.com/skillsmuggler/amazon-ratings
+2. Home Depot products with descriptions, Data Source: hhttps://www.kaggle.com/c/home-depot-product-search-relevance/data
 
 The recommendation system is designed in 3 parts based on the business context:
 
