@@ -1,5 +1,7 @@
 # Ecommerce-recommendation-system-design-using-Python
 
+(Please click on the file above named; Recommendation System - Paul.ipynb to see the detailed application of analytics and its interpretation)
+
 A well developed recommendation system will help businesses improve their shopper's experience on website and result in better customer acquisition and retention.
 
 The recommendation system, I have designed below is based on the journey of a new customer from the time he/she lands on the business’s website for the first time to when he/she makes repeat purchases. 
