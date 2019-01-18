@@ -19,3 +19,22 @@ Recommendation system part II: Model-based collaborative filtering system based 
 Recommendation system part III: When a business is setting up its e-commerce website for the first time withou any product rating
 
 When a new customer without any previous purchase history visits the e-commerce website for the first time, he/she is recommended the most popular products sold on the company's website. Once, he/she makes a purchase, the recommendation system updates and recommends other products based on the purchase history and ratings provided by other users on the website. The latter part is done using collaborative filtering techniques.
+
+Techniques used: 
+
+
+1) Product popularity based recommendation system targeted at new customers
+Popularity based are a great strategy to target the new customers with the most popular products sold on a business's website and is very useful to cold start a recommendation engine.
+
+2) Model-based collaborative filtering system
+Recommend items to users based on purchase history and similarity of ratings provided by other users who bought items to that of a particular customer.
+
+A model based collaborative filtering technique is closen here as it helps in making predictinfg products for a particular user by identifying patterns based on preferences from multiple user data.
+
+3) For a business without any user-item purchase history, a search engine based recommendation system can be designed for users. The product recommendations can be based on textual clustering analysis given in product description.
+Predictions done based on other products from the same cluster (based of text analysis of product description) on key search words.
+
+Once a cluster is identified based on the user's search words, the recommendation system can display items from the corresponding product clusters based on the product descriptions.
+
+Summary:
+This works best if a business is setting up its e-commerce website for the first time and does not have user-item purchase/rating history to start with initally. This recommendation system will help the users get a good recommendation to start with and once the buyers have a purchased history, the recommendation engine can use the model based collaborative filtering technique.
