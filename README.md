@@ -1,4 +1,4 @@
-# Ecommerce-recommendation-system-design-using-Python
+# Ecommerce-recommendation-system-design-using-Python on Amazon & Home Depot's dataset
 
 (Please click on the Recommendation System - Paul.ipynb file  to see the detailed application of analytics and its interpretation)
 
